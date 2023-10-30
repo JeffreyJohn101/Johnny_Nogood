@@ -1,0 +1,3 @@
+              - name: Titanium Android build
+                uses: m1ga/titanium-android-build@v2
+            
